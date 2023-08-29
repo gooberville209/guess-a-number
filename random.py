@@ -7,7 +7,7 @@ def guess_number():
     guess = 0
     attempts = 0
     
-    print("I've chosen a number between 1 and 100. Try to guess it!")
+    print("I've chosen a great number between 1 and 100. Try to guess it!")
     
     while guess != number:
         try:
