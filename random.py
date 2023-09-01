@@ -2,7 +2,7 @@ import random
 
 def guess_number():
     # Randomly select a number between 1 and 100
-    number = random.randint(1, 100)
+    number = random.randint(1, 1000)
     
     guess = 0
     attempts = 0
